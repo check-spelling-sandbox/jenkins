@@ -76,4 +76,3 @@ SUMS$
 ^war/src/main/webapp/WEB-INF/update-center-rootCAs/[^/]*-ca[^./]*$
 ^whitelist\.txt$
 ^\.github/
-_[a-z]{2}(?:_[A-Z]{2}|)\.(?:properties|html)$

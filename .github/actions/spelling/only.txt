@@ -1,1 +1,1 @@
-_.*_.*\.(?:properties|html)$
+_[a-z]{2}(?:_[A-Z]{2}|)\.(?:properties|html)$
