@@ -132,7 +132,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>junit</artifactId>
-      <version>1.48</version>
+      <version>1153.v1c24f1a_d2553</version>
       <!-- TODO define property for this and share with war/pom.xml-->
       <scope>test</scope>
     </dependency>
